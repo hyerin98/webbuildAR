@@ -1,6 +1,6 @@
 {
-    "name": "TerraPacmanARGame",
-    "short_name": "TerraPacmanARGame",
+    "name": "TerraXPacMan_ARGame",
+    "short_name": "TerraXPacMan_ARGame",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
